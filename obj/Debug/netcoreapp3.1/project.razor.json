@@ -20521,8 +20521,8 @@
   "RootNamespace": "MVC___Github",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\ID569\\OneDrive\\Desktop\\MVC - Github\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\ID569\\OneDrive\\Desktop\\MVC - Github\\Views\\Home\\index.cshtml",
+      "TargetPath": "Views\\Home\\index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20538,6 +20538,11 @@
     {
       "FilePath": "c:\\Users\\ID569\\OneDrive\\Desktop\\MVC - Github\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ID569\\OneDrive\\Desktop\\MVC - Github\\Views\\Home\\nosotros.cshtml",
+      "TargetPath": "Views\\Home\\nosotros.cshtml",
       "FileKind": "mvc"
     },
     {
