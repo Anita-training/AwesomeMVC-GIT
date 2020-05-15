@@ -20556,6 +20556,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ID569\\OneDrive\\Desktop\\MVC - Github\\Views\\Home\\terminos2.cshtml",
+      "TargetPath": "Views\\Home\\terminos2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ID569\\OneDrive\\Desktop\\MVC - Github\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
