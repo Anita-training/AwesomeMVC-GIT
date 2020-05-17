@@ -20521,6 +20521,11 @@
   "RootNamespace": "MVC___Github",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\ID569\\OneDrive\\Desktop\\MVC - Github\\Views\\Home\\index.cshtml",
+      "TargetPath": "Views\\Home\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ID569\\OneDrive\\Desktop\\MVC - Github\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -20568,6 +20573,11 @@
     {
       "FilePath": "c:\\Users\\ID569\\OneDrive\\Desktop\\MVC - Github\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ID569\\OneDrive\\Desktop\\MVC - Github\\Views\\Home\\vuelos.cshtml",
+      "TargetPath": "Views\\Home\\vuelos.cshtml",
       "FileKind": "mvc"
     }
   ],
