@@ -1,0 +1,42 @@
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\bin\Debug\netcoreapp3.1\MVC - Github.exe
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\bin\Debug\netcoreapp3.1\MVC - Github.deps.json
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\bin\Debug\netcoreapp3.1\MVC - Github.runtimeconfig.json
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\bin\Debug\netcoreapp3.1\MVC - Github.runtimeconfig.dev.json
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\bin\Debug\netcoreapp3.1\MVC - Github.dll
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\bin\Debug\netcoreapp3.1\MVC - Github.pdb
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\bin\Debug\netcoreapp3.1\MVC - Github.Views.dll
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\bin\Debug\netcoreapp3.1\MVC - Github.Views.pdb
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.csprojAssemblyReference.cache
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.csproj.CoreCompileInputs.cache
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.RazorAssemblyInfo.cache
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.RazorAssemblyInfo.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.AssemblyInfoInputs.cache
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.AssemblyInfo.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.TagHelpers.input.cache
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.TagHelpers.output.cache
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.RazorCoreGenerate.cache
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\Razor\Views\Home\contact.cshtml.g.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\Razor\Views\Home\mama.cshtml.g.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\Razor\Views\Home\nosotros.cshtml.g.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\Razor\Views\Home\terminos2.cshtml.g.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\Razor\Views\Home\vuelos.cshtml.g.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.RazorTargetAssemblyInfo.cache
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.RazorTargetAssemblyInfo.cs
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.Views.pdb
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\staticwebassets\MVC - Github.StaticWebAssets.Manifest.cache
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\staticwebassets\MVC - Github.StaticWebAssets.xml
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.dll
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.pdb
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.genruntimeconfig.cache
+C:\Users\ID569\OneDrive\Desktop\MVC - Github\obj\Debug\netcoreapp3.1\MVC - Github.csproj.CopyComplete
